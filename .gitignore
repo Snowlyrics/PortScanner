@@ -1,0 +1,46 @@
+# Build artifacts
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.exe
+scanner
+PortScanner
+
+# Build directories
+build/
+cmake-build-*/
+Debug/
+Release/
+Desktop-Debug/
+Desktop-Release/
+
+# Qt Creator / IDE files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.autosave
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Generated output
+output/*.json
+output/*.html
+output/*.txt
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

@@ -5,8 +5,6 @@
 *.a
 *.so
 *.exe
-scanner
-PortScanner
 
 # Build directories
 build/
